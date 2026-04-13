@@ -1,0 +1,68 @@
+# Sniper Powerful Ferdy - Central Configuration
+trading_params:
+  symbol: "XAUUSDc"
+  symbol_suffix: "c"
+  lot: 0.01
+  dry_run: false
+  risk_per_trade: 0.01  # 1%
+  default_sl_pips: 50
+  default_tp_pips: 100
+  # Manual mode switch (human-controlled). No automatic time-based switching.
+  mode: "normal"  # "normal" | "weekend"
+  allowed_symbols_normal:
+    - "XAUUSDc"
+    - "XAGUSDc"
+    - "BTCUSDc"
+    - "EURUSDc"
+    - "GBPJPYc"
+  allowed_symbols_weekend:
+    - "BTCUSDc"
+  # Safety filters
+  duplicate_window_seconds: 120
+  spread_filter_enabled: true
+  # Max spread (in pips). If absent for a symbol group, uses conservative defaults.
+  max_spread_pips_forex: 5
+  max_spread_pips_metals: 50
+  max_spread_pips_crypto: 200
+
+indicators:
+  rsi_period: 14
+  rsi_overbought: 70
+  rsi_oversold: 30
+  ma_period: 200
+
+risk:
+  # Daily loss budget in account "cents"
+  max_daily_loss_cents: 300
+  # Max loss reserved per trade in cents (SL-based)
+  max_loss_per_trade_forex_crypto_cents: 20
+  max_loss_per_trade_metals_cents: 40  # XAUUSDc & XAGUSDc
+  # If last N closed trades are losses, pause trading for cooldown_seconds
+  consecutive_losses_to_cooldown: 3
+  cooldown_seconds: 3600
+  # Only count deals with this magic number for risk / streak checks
+  magic_number: 260410
+
+voting:
+  # Execute if score >= this value (out of 5: Telegram + 4 indicators)
+  min_score_to_execute: 4
+  # If score equals this value, default behavior is to reject (safer)
+  reject_score_equals: 3
+  # Indicator toggles (default ON). If disabled, indicator votes YES (no blocking).
+  enable_rsi: true
+  enable_ma: true
+  enable_atr: true
+  enable_bb: true
+  # ATR filter: set to 0 to disable (always votes YES)
+  atr_min_pct: 0.0
+  bb_period: 20
+  bb_stddev: 2.0
+
+telegram:
+  allowed_chat_ids:
+    - -1003518891443  # FOREX GOLD SNIPERS
+    - -1001702096089  # THE TRADING DEITY
+    - -1002735612780  # Alpha Institute VIP Signal
+    - -1003545354452  # Alpha Institute Public
+  allowed_forward_sender_ids:
+    - -8607169820      # Forex Clarity VIP (forward sender)
