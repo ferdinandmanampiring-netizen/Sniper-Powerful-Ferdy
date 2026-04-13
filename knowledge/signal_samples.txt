@@ -1,0 +1,733 @@
+CONTOH SIGNAL
+Dari : FOREX GOLD SNIPERS
+id: -1003518891443
+ ├ title: 𝙁𝙤𝙧𝙚𝙭 𝙂𝙤𝙡𝙙 𝙎𝙣𝙞𝙥𝙚𝙧𝙨
+ ├ username: ForexGoldSnipers22 (https://t.me/ForexGoldSnipers22)
+ └ type: channel
+
+Contoh signal sebagai berikut :
+XAUUSD SELL 4775
+MORE SELL 4778
+
+TP¹ 4772
+TP² 4769
+TP³ 4768
+TP⁴ 4765
+
+
+SL 4785
+Disclaimer : This is not financial advice trading involves risk so trade with your own
+ATAU
+
+XAUUSD BUY 4760
+MORE BUY 4757
+
+TP¹ 4763
+TP² 4766
+TP³ 4769
+TP⁴ 4772
+
+
+SL 4752
+ATAU
+XAUUSD SELL 4753
+MORE SELL 4755
+
+TP¹ 4750
+TP² 4747
+TP³ 4744
+TP⁴ 4741
+TP⁵ 4738
+TP⁶ 4733
+
+SL 4763
+ATAU
+XAUUSD BUY 4705
+MORE BUY 4702
+
+TP¹ 4708
+TP² 4711
+TP³ 4714
+TP⁴ 4717
+TP⁵ 4720
+TP⁶ 4725
+
+SL 4693
+ATAU
+XAUUSD BUY 4718
+MORE BUY 4715
+
+TP¹ 4722
+TP² 4725
+TP³ 4728
+TP⁴ 4731
+TP⁵ 4733
+TP⁶ 4738
+
+SL 4605
+ATAU
+XAUUSD SELL 4702
+MORE SELL 4705
+
+TP¹ 4699
+TP² 4696
+TP³ 4693
+TP⁴ 4690
+TP⁵ 4688
+TP⁶ 4685
+TP⁷ 4682
+TP⁸ 4679
+TP⁹ 4676
+TP¹⁰4666
+TP OPEN
+
+SL  4715 SCALPING
+ATAU
+XAUUSD SELL 4686
+MORE SELL 4690
+
+TP¹ 4683
+TP² 4680
+TP³ 4677
+TP⁴ 4674
+TP⁵ 4671
+TP⁶ 4668
+TP⁷ 4661
+TP⁸ 4658
+TP⁹ 4655
+TP¹⁰4646
+TP OPEN
+
+SL  4700 SCALPING
+ATAU
+XAUUSD BUY 4575
+MORE BUY 4570
+
+TP¹ 4578
+TP² 4581
+TP³ 4584
+TP⁴ 4587
+TP⁵ 4590
+TP⁶ 4593
+TP⁷ 4600
+TP⁸ 4605
+TP⁹ 4610
+TP¹⁰4678
+TP OPEN
+
+SL  4560 SCALPING
+
+Dari : THE TRADING DEITY
+💬 Origin chat
+ ├ id: -1001702096089
+ ├ title: 𝐓𝐡𝐞 𝐓𝐫𝐚𝐝𝐢𝐧𝐠 𝐃𝐞𝐢𝐭𝐲
+ └ type: channel
+Contoh signal sebagai berikut :
+SELL XAUUSD 4683
+
+LIMIT LOT  4688
+
+TP1✅4680
+
+TP2✅4677
+
+TP3✅4674
+
+TP4✅4671
+
+SL.. 4695
+Atau
+SELL XAUUSD 4566
+
+LIMIT LOT  4570
+
+TP1✅4563
+
+TP2✅4560
+
+TP3✅4557
+
+TP4✅4554
+
+SL.. 4583
+Atau
+SELL XAUUSD 4580
+
+LIMIT LOT  4587
+
+TP1✅4577
+
+TP2✅4574
+
+TP3✅4571
+
+TP4✅4568
+
+SL.. 4595
+Atau
+SELL XAUUSD 4473
+
+LIMIT LOT  4477
+
+TP1✅4470
+
+TP2✅4467
+
+TP3✅4464
+
+TP4✅4461
+
+SL.. 4485
+atau
+SELL XAUUSD 5335
+
+LIMIT LOT 5340
+
+TP1✅5332
+
+TP2✅5329
+
+TP3✅5326
+
+TP4✅5323
+
+SL...5347
+atau
+BUY XAUUSD 5383 limit lot 5375
+
+TP1✅5386
+
+Tp2✅5389
+
+Tp3 ✅5392
+
+Tp4 ✅5395
+
+
+SL 5368
+atau
+BUY XAUUSD 5366 limit lot 5361
+
+TP1✅5369
+
+Tp2✅5372
+
+Tp3 ✅5375
+
+Tp4 ✅5378
+
+
+SL 5355
+atau
+BUY XAUUSD 5360 limit lot 5356
+
+TP1✅5363
+
+Tp2✅5366
+
+Tp3 ✅5369
+
+Tp4 ✅5372
+
+Tp5✅5375
+
+SL 5347
+atau
+BUY XAUUSD 5338limit lot 5333
+
+TP1✅5341
+
+Tp2✅5344
+
+Tp3 ✅5347
+
+Tp4 ✅5350
+
+Tp5✅5353
+
+SL 5325
+Atau
+BUY XAUUSD 5283limit lot 5278
+
+TP1✅5286
+
+Tp2✅5289
+
+Tp3 ✅5292
+
+Tp4 ✅5295
+
+Tp5✅5298
+
+Tp6✅5301
+
+Tp7✅5304
+
+Tp8✅5307
+
+SL 5268
+Atau
+BUY XAUUSD 5155limit lot 5150
+
+TP1✅5158
+
+Tp2✅5161
+
+Tp3 ✅5164
+
+Tp4 ✅5167
+
+SL 5044
+Atau
+BUY XAUUSD 5100limit lot 5095
+
+TP1✅5103
+
+Tp2✅5106
+
+Tp3 ✅5109
+
+
+SL 5090
+Atau
+SELL XAUUSD 5186limit lot 5181
+
+TP1✅5183
+
+Tp2✅5180
+
+Tp3 ✅5177
+
+Tp4 ✅5174
+
+SL 5197
+Atau
+BUY XAUUSD 5152limit lot 5146
+
+TP1✅5155
+
+Tp2✅5158
+
+Tp3 ✅5161
+
+Tp4 ✅5164
+
+
+
+
+SL 5139
+ATAU
+BUY XAUUSD 5141limit lot 5135
+
+TP1✅5144
+
+Tp2✅5147
+
+Tp3 ✅5150
+
+Tp4 ✅5153
+
+Tp5✅5156
+
+
+SL 5128
+ATAU
+SELL XAUUSD 5112limit lot 5117
+
+TP1✅5109
+
+Tp2✅5106
+
+Tp3 ✅5103
+
+Tp4 ✅5100
+
+
+
+
+SL 5123
+
+Dari : Alpha Institute VIP Signal
+💬 Origin chat
+ ├ id: -1002735612780
+ ├ title: Alpha Institute VIP Signal
+ └ type: channel
+Contoh signal sebagai berikut :
+BTCUSD SELL NOW AT
+
+📍 Entry Zone: 71250 - 71450
+
+⛔️ SL: 71650
+
+🎯 TP1: 71050
+🎯 TP2: 70850
+ATAU
+BTCUSD SELL NOW AT
+
+📍 Entry Zone: 71600 - 71800
+
+⛔️ SL: 72000
+
+🎯 TP1: 71400
+🎯 TP2: 71200
+ATAU
+XAUUSD BUY NOW 
+
+📍 Entry Zone: 5023.5 - 5018.5
+
+⛔️ SL: 5013.5
+
+🎯 TP1: 5028.5
+🎯 TP2: 5033.5
+Atau
+XAUUSD SELL NOW 
+
+📍 Entry Zone: 5017 - 5022
+
+⛔️ SL: 5027
+
+🎯 TP1: 5012
+🎯 TP2: 5007
+ATAU
+XAUUSD SELL NOW 
+
+📍 Entry Zone: 5008 - 5013
+
+⛔️ SL: 5018
+
+🎯 TP1: 5003
+🎯 TP2: 4998
+ATAU
+XAUUSD BUY NOW 
+
+📍 Entry Zone: 4985 - 4980
+
+⛔️ SL: 4975
+
+🎯 TP1: 4990
+🎯 TP2: 4995
+ATAU
+EURUSD SELL NOW 
+
+📍 Entry Zone: 1.14740 - 1.14940
+
+⛔️ SL: 1.15140
+
+🎯 TP1: 1.14540
+🎯 TP2: 1.14340
+ATAU
+XAUUSD SELL NOW 
+
+📍 Entry Zone: 5007 - 5012
+
+⛔️ SL: 5017
+
+🎯 TP1: 5002
+🎯 TP2: 4997
+ATAU
+HIGHRISK XAUUSD BUY NOW AT 5002 - 4997                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Stop Loss : 4992
+ 
+Take Profit 1 : 5007
+Take Profit 2 : 5012
+ATAU
+HIGHRISK XAUUSD BUY NOW AT 4991 - 4986                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Stop Loss : 4981
+ 
+Take Profit 1 : 4996
+Take Profit 2 : 5001
+ATAU
+HIGHRISK XAUUSD BUY NOW AT 4994 - 4989                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Stop Loss : 4984
+ 
+Take Profit 1 : 4999
+Take Profit 2 : 5004
+ATAU
+EURUSD BUY NOW 
+
+📍 Entry Zone: 1.15630 - 1.15430
+
+⛔️ SL: 1.15230
+
+🎯 TP1: 1.15830
+🎯 TP2: 1.16030
+ATAU
+BTCUSD BUY NOW 
+
+📍 Entry Zone: 69300 - 69100
+
+⛔️ SL: 68900
+
+🎯 TP1: 69500
+🎯 TP2: 69700
+Atau
+EURUSD SELL NOW 
+
+📍 Entry Zone: 1.15480 - 1.15680
+
+⛔️ SL: 1.15780
+
+🎯 TP1: 1.15280
+🎯 TP2: 1.15080
+
+
+Dari : Alpha Institute Public
+id: -1003545354452
+ ├ title: Alpha Institute Public
+ ├ username: alphainstitutepublic (https://t.me/alphainstitutepublic)
+ └ type: channel
+Contoh signal sebagai berikut :
+HIGHRISK GBPJPY BUY NOW AT 
+210.255 - 209.955
+
+Stop Loss 209.655
+
+Take profit 1 : 210.555
+Take Profit 2 : 210.855
+Atau
+HIGHRISK GBPJPY BUY NOW AT 
+210.430 - 210.130
+
+Stop Loss 210.830
+
+Take profit 1 : 210.730
+Take Profit 2 : 211.030
+Atau
+HIGHRISK GBPJPY BUY NOW AT 211.960 - 211.660                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Stop Loss : 211.360
+ 
+Take Profit 1 : 212.260
+Take Profit 2 : 212.560
+Atau
+HIGHRISK BTCUSD Buy NOW AT 68190 - 67990
+
+Stop Loss 67790
+
+Take profit 1 : 68390
+Take Profit 2 : 68590
+Atau
+HIGHRISK BTCUSD Scalping Sell NOW AT 68000 - 68200
+
+Stop Loss 68400 
+
+Take profit 1 :   67800
+Take Profit 2 :   67600
+Atau
+HIGHRISK BTCUSD Buy NOW AT 66680 - 66480
+
+Stop Loss 66280
+
+Take profit 1 : 66880
+Take Profit 2 : 67080
+Atau
+HIGHRISK EURUSD BUY NOW AT 1.158 - 1.156
+
+Stop Loss : 1.154
+
+Take profit 1 : 1.160
+Take Profit 2 : 1.162
+Atau
+HIGHRISK EURUSD BUY NOW AT 1.146 - 1.144
+
+Stop Loss : 1.142
+
+Take profit 1 : 1.148
+Take Profit 2 : 1.150
+Atau
+HIGHRISK EURUSD BUY NOW AT 1.152 - 1.150
+
+Stop Loss : 1.148
+
+Take profit 1 : 1.154
+Take Profit 2 : 1.156
+Atau
+HIGHRISK EURUSD BUY NOW AT 1.153 - 1.151
+
+Stop Loss : 1.149
+
+Take profit 1 : 1.155
+Take Profit 2 : 1.157
+Atau
+XAUUSD SELL NOW AT 4758 - 4768                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Stop Loss : 4778
+ 
+Take Profit 1 : 4748
+Take Profit 2 : 4738
+Atau
+XAUUSD SELL NOW AT 4685 - 4695                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Stop Loss : 4705
+ 
+Take Profit 1 : 4675
+Take Profit 2 : 4665
+Atau
+HIGHRISK XAUUSD BUY NOW AT 4550 - 4540                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Stop Loss : 4530
+ 
+Take Profit 1 : 4560
+Take Profit 2 : 4570
+Atau
+HIGHRISK XAUUSD BUY NOW AT 4410 - 4405                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Stop Loss : 4400
+ 
+Take Profit 1 : 4415
+Take Profit 2 : 4420
+Atau
+XAUUSD SELL NOW AT 4533 - 4538                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Stop Loss : 4543
+ 
+Take Profit 1 : 4528
+Take Profit 2 : 4523
+Atau
+XAUUSD SELL NOW 
+
+📍 Entry Zone: 4721 - 4726
+
+⛔️ SL: 4731
+
+🎯 TP1: 4716
+🎯 TP2: 4711
+Atau
+XAUUSD SELL NOW AT 5012 - 5017                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Stop Loss : 5022
+ 
+Take Profit 1 : 5007
+Take Profit 2 : 5002
+Atau
+HIGHRISK XAUUSD BUY NOW AT 5216 - 5211                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Stop Loss : 5206
+ 
+Take Profit 1 : 5221
+Take Profit 2 : 5226
+
+
+
+Dari : Forex Clarity VIP (id: -8607169820) (forward sender)
+ ├ is_bot: false
+ ├ first_name: Forex
+ ├ last_name: Clarity
+ ├ username: forexclarity1 (https://t.me/forexclarity1)
+
+Contoh signal sebagai berikut :
+BUY LIMIT 4734
+
+TP 4754
+
+SL 4726
+
+SL nya agak lebar kalau mau safe ambil zona bawahnya sell di 4730
+Atau
+SELL LIMIT 4724
+TP 1 4720
+TP 2 4710
+
+SL 4730 ❌
+
+
+Hapus kalu dia ke bawah dulu 150 pips
+Atau
+BUY LIMIT 4563-4564
+
+TP 1 50 pips 
+TP 2 100 pips
+
+SL 4559🚫
+Atau
+BUY LIMIT 4508-4506
+
+TP 1 50 pips
+TP 2 100 pips
+
+SL 4502❌
+Atau
+BUY 4444-4442
+SL 50 pips
+
+TP 1 50 pips
+TP 2 100 pips
+Atau
+SELL LIMIT 4511-4513 
+TP 1 50 pips
+TP 2 100 pips
+TP 3 200 pips
+
+SL 4518🚫
+Atau
+1️⃣Buy limit 4415-4416 (zone FVG m5) probabilitas sedang
+TP 1 50 pips
+TP 2 100 pips
+
+SL 4410🚫
+
+
+2️⃣ buy limit 4403-4401 (zone demand) probabilitas tinggi
+TP 1 50 pips
+TP 2 100 pips
+TP 3 200 pips
+
+SL 1 4395🚫
+SL 2 4390🚫
+Atau
+BUY LIMIT 4468-4467
+
+TP 1 50 pips 
+TP 2 100 pips
+
+SL 4462🚫
+Atau
+SELL LIMIT 4668-4669
+SL 4674❌
+
+TP 1 50 pips
+TP 2 100 pips
+TP 3 200 pips
+Atau
+1️⃣BUY LIMIT 4836-4834
+SL 4830🚫
+
+TP 1 50 pips
+TP 2 100 pips
+
+
+2️⃣SELL LIMIT 4871-4873
+SL 4877
+
+TP 1 50 pips
+TP 2 100 pips
+Atau
+SELL LIMIT 5001-5002
+SL 5006🚫
+
+TP 1 50 pips
+TP 2 100 pips
+Atau
+SELL NOW 5021-5023
+
+SL 5027❌
+
+TP 1 50 pips
+TP 2 100 pips
+atau
+Buy limit 5006-5007
+SL 5001 ❌
+
+TP 1 50 pips
+TP 2 100 pips
+
+
+SELL LIMIT 5042-5041
+SL 5047❌
+
+TP 1 50 pips
+TP 2 100 pips
+Atau
+Buy limit 4706
+TP 1 50 pips
+TP 2 100 pips
+
+SL 4700 pips❌
+Atau
+SELL 4585-4586
+TP 1 50 pips
+TP 2 100 pips
+
+SL 4590🚫
