@@ -1,0 +1,8 @@
+MetaTrader5
+pandas
+pyyaml
+python-telegram-bot
+numpy
+python-dotenv
+telethon
+colorama
